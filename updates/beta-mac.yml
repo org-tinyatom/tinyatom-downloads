@@ -1,8 +1,8 @@
-version: 0.1.0-beta.5
+version: 0.1.0-beta.6
 files:
-  - url: https://github.com/org-tinyatom/tinyatom-downloads/releases/download/v0.1.0-beta.5/TinyAtom-0.1.0-beta.5-arm64.zip
-    sha512: KObr0GKOerlysXRYhVc8BpjrlBrijD5g7KBS7d92Y2ief3RXgUPpKg2zHH31RqDQs3Fo6Egg0FiK+HsntFJKmQ==
-    size: 130461587
-path: https://github.com/org-tinyatom/tinyatom-downloads/releases/download/v0.1.0-beta.5/TinyAtom-0.1.0-beta.5-arm64.zip
-sha512: KObr0GKOerlysXRYhVc8BpjrlBrijD5g7KBS7d92Y2ief3RXgUPpKg2zHH31RqDQs3Fo6Egg0FiK+HsntFJKmQ==
-releaseDate: '2026-07-26T00:31:18.427Z'
+  - url: https://github.com/org-tinyatom/tinyatom-downloads/releases/download/v0.1.0-beta.6/TinyAtom-0.1.0-beta.6-arm64.zip
+    sha512: j3WeY3ThO/s4G68aieUXtjrkhdxj7hiIVW99kajJMXKecRkjdaHi6pitAWJiPASn2jOl1wI8JbeoPj1ExZa5NA==
+    size: 130882238
+path: https://github.com/org-tinyatom/tinyatom-downloads/releases/download/v0.1.0-beta.6/TinyAtom-0.1.0-beta.6-arm64.zip
+sha512: j3WeY3ThO/s4G68aieUXtjrkhdxj7hiIVW99kajJMXKecRkjdaHi6pitAWJiPASn2jOl1wI8JbeoPj1ExZa5NA==
+releaseDate: '2026-07-27T06:20:54.246Z'
